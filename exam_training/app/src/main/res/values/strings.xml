@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">exam_training</string>
+    <string name="TAG">19621655</string>
+    <string name="fn_hint">Enter faculty number.</string>
+
+    <string name="firstname_hint">Enter first name.</string>
+    <string name="lastname_hint">Enter last name.</string>
+    <string name="specialty_hint">Enter specialty.</string>
+    <string name="course_hint">Enter course.</string>
+    <string name="email_hint">Enter e-mail.</string>
+
+    <string name="fn_error">Enter valid faculty number!</string>
+    <string name="firstname_error">Enter valid first name!</string>
+    <string name="lastname_error">Enter valid last name!</string>
+    <string name="specialty_error">Enter valid specialty!</string>
+    <string name="course_error">Enter valid course!</string>
+    <string name="email_error">Enter valid e-mail!</string>
+
+
+    <string name="button_name">Next</string>
+    <string name="button_name1">Back</string>
+
+</resources>
